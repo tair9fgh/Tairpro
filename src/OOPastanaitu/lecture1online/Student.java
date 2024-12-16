@@ -6,6 +6,7 @@ public class Student {
     public static int var = 1234;
     protected int barcode;
     private int gpa;
+    public int age;
 
     public int getGPA() {
         return this.gpa;
